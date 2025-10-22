@@ -1,0 +1,19 @@
+{
+    "capacity": 10000000,
+    "keys": [
+        "s",
+        "a",
+        "a_str",
+        "r",
+        "q",
+        "q_next",
+        "done"
+    ],
+    "total_data_count": 1000000,
+    "last_saved_count": 1000000,
+    "file_counter": 1,
+    "data_files": [
+        "20250819_182306_351_0004.npy"
+    ],
+    "version": 1.0
+}
